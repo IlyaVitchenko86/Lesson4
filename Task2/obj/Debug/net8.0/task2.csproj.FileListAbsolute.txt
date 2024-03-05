@@ -1,0 +1,15 @@
+C:\Документы\GeekBrains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson4\task2\obj\Debug\net8.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Документы\GeekBrains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson4\task2\obj\Debug\net8.0\task2.AssemblyInfoInputs.cache
+C:\Документы\GeekBrains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson4\task2\obj\Debug\net8.0\task2.AssemblyInfo.cs
+C:\Документы\GeekBrains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson4\task2\obj\Debug\net8.0\task2.csproj.CoreCompileInputs.cache
+C:\Документы\GeekBrains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson4\task2\obj\Debug\net8.0\task2.sourcelink.json
+C:\Документы\GeekBrains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson4\task2\bin\Debug\net8.0\task2.exe
+C:\Документы\GeekBrains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson4\task2\bin\Debug\net8.0\task2.deps.json
+C:\Документы\GeekBrains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson4\task2\bin\Debug\net8.0\task2.runtimeconfig.json
+C:\Документы\GeekBrains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson4\task2\bin\Debug\net8.0\task2.dll
+C:\Документы\GeekBrains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson4\task2\bin\Debug\net8.0\task2.pdb
+C:\Документы\GeekBrains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson4\task2\obj\Debug\net8.0\task2.dll
+C:\Документы\GeekBrains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson4\task2\obj\Debug\net8.0\refint\task2.dll
+C:\Документы\GeekBrains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson4\task2\obj\Debug\net8.0\task2.pdb
+C:\Документы\GeekBrains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson4\task2\obj\Debug\net8.0\task2.genruntimeconfig.cache
+C:\Документы\GeekBrains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson4\task2\obj\Debug\net8.0\ref\task2.dll
